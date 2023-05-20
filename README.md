@@ -1,3 +1,3 @@
 Hello people! 
 I like cats!
-![avatar](https://yandex.ru/images/search?img_url=https%3A%2F%2Fsun9-18.userapi.com%2Fimpg%2FAGdKViFaiae100gutXxeIcfPzwEIZ6PSnbyc0g%2FQqlJy5aExAs.jpg%3Fsize%3D1280x853%26quality%3D96%26sign%3D6ef0d96bc03e4b712a207770e124f570%26c_uniq_tag%3D6wmENXAHYqAfuBB4eZ6e_Yu03lH8uK5aEXtqru0ZsVg%26type%3Dalbum&lr=11063&pos=1&rpt=simage&source=serp&text=%D0%B5%D0%BB%D0%BA%D0%B0%20%D1%84%D0%BE%D1%82%D0%BE)
+<image src="[https://picsum.photos/800/600](https://yandex.ru/images/search?img_url=https%3A%2F%2Fs1.1zoom.ru%2Fbig3%2F693%2FCats_Kittens_Ginger_438018.jpg&lr=11063&pos=1&rpt=simage&source=serp&text=%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8)" alt="котя">
